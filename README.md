@@ -7,7 +7,7 @@
 <li>sudo apt-get install gnome-terminal crunch aircrack-ng</li>
 
 <details id="missing-code-coverage">
-  <summary>TOOL INSTALLING</summary>
+  <summary><h3>TOOL INSTALLING</h3></summary>
 <li>git clone https://github.com/RS-YAAD/WiFiCrack</li>
 <li>cd WiFiCrack</li>
 <li>bash WiFiCrack.sh</li>
